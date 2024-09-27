@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: indigo;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+}
+
+h1 {
+    color:#333;
+    padding: 10px; 
+            margin: 10px; 
+            border-radius: 10px; 
+            background-color: gainsboro; 
+            font-size: 30px; 
+            box-shadow: 4px 4px 4px 2px rgb(115, 143, 115);
+            display: inline-block;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: 4px 4px 4px 2px rgb(115, 143, 115);
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.section video {
+    width: 60%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 12px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+body 
+{
+    background-image: url('cstu/bg.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.button {
+    background-color: violet;
+    color:white;
+    padding: 8px 20px;
+    text-align: center;
+    font-size: 14px;
+    border: black;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 4px 4px 4px 2px rgb(115, 143, 115);
+    
+}
+
+.button:hover {
+    background-color:tan;
+}

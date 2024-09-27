@@ -1,0 +1,52 @@
+.textbox {
+     color:rgb(15, 17, 12);
+     background-color: rgb(174, 170, 211);
+     border: 2px solid black; 
+     box-shadow: 4px 4px 4px 2px rgb(115, 143, 115);
+     font-style: inherit;
+}
+.button {
+     background-color: violet;
+     color:white;
+     padding: 10px 20px;
+     text-align: center;
+     font-size: 14px;
+     border: black;
+     border-radius: 8px;
+     cursor: pointer;
+     box-shadow: 4px 4px 4px 2px rgb(115, 143, 115);
+     
+ }
+
+ .button:hover {
+     background-color:tan;
+ }
+ 
+ body {
+     background-image: url('cstu/bg.jpg');
+     background-size: cover; 
+     background-position: center; 
+     background-repeat: no-repeat; 
+ }
+
+ h2 {
+     border: 2px solid #4CAF50; 
+            padding: 10px; 
+            margin: 10px; 
+            border-radius: 10px; 
+            background-color: #f9f9f9; 
+            font-size: 18px; 
+            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+
+ }
+h3 {
+     border: 2px solid blue; 
+            padding: 10px; 
+            margin: 10px; display: inline-block;
+            background-color:salmon; }
+p {
+    color: #f9f9f9;
+    text-decoration: dashed;
+
+}

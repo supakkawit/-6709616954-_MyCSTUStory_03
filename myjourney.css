@@ -45,7 +45,7 @@ h1 {
 }
 
 .image-container img {
-    max-width: 20%;
+    max-width: 25%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
